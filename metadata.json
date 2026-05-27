@@ -1,0 +1,6 @@
+{
+  "name": "Raju Landscape",
+  "description": "Digital catalog for Raju Landscape plant nursery listing available plants with details, colors, and types in an elegant botanical grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
